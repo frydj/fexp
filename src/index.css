@@ -13,7 +13,7 @@ code {
 }
 
 /* src/index.css */
-#my-extension-root {
+#fexp-root {
   width: 400px;
   height: 100%;
   position: fixed;
